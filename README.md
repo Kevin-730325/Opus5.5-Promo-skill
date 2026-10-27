@@ -1,5 +1,4 @@
-# Circular World Film · 咫尺之间，万象自生
-
+# Opus5.5 Promo skill
 一个面向 AI Agent 的概念片制作 Skill。以圆的边缘为视觉锚点，在统一构图中穿行于不同的材质、尺度与文化；保留原片的复古颗粒、文字质感和逐帧卡点。
 
 ![多个圆弧材质的视觉展示](twenty-arcs.png)
